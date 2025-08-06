@@ -5,4 +5,6 @@ elif seu_main == "Master yi":
     print(f"Mono {seu_main}? Você tbm é tcholas amigo.")
 else:
     ("Pdp cara, considerável.")
-    
+
+
+#Olha, tudo contra master yi, ele acaba com o meus adczinho, Draven tenho ranço momentâneo mas vou superar, rs
