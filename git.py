@@ -19,13 +19,15 @@ slasher5= "Trick or treat"
 
 #Em seguida, seu rank de seasons da sua série favorita -- Tente fazer uma função. 
 
-def ahs(seasons):
-    first = "Ahs hotel"
-    second = "Ahs 1984"
-    third = "Ahs Freak show"
-    fourth = "Ahs cult"
-    fifth = "Ahs coven"
+def ahs():
+    rank = [
+    "Ahs hotel",
+    "Ahs 1984",
+    "Ahs Freak show",
+    "Ahs cult",
+    "Ahs coven"]
 
-    return seasons
+    return rank
 
 
+print(ahs()) #Tomei um pau pra chamar a função pq não tava chamando o parâmetro,rs -- Mas ta mec, agora consegui!!
