@@ -16,3 +16,16 @@ slasher2= "A noiva de Chucky"
 slasher3= "Sexta-feira 13"
 slasher4= "Halloween"
 slasher5= "Trick or treat"
+
+#Em seguida, seu rank de seasons da sua série favorita -- Tente fazer uma função. 
+
+def ahs(seasons):
+    first = "Ahs hotel"
+    second = "Ahs 1984"
+    third = "Ahs Freak show"
+    fourth = "Ahs cult"
+    fifth = "Ahs coven"
+
+    return seasons
+
+
