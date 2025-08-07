@@ -31,3 +31,17 @@ def ahs():
 
 
 print(ahs()) #Tomei um pau pra chamar a função pq não tava chamando o parâmetro,rs -- Mas ta mec, agora consegui!!
+
+
+#Sem enrolar mt pq já são 20h, mais um commit pra gente brincar com o checkout e o revert kk
+
+#Usando dicionário pra ver a saída dele!
+
+dicioana = {        
+    "nome": "Ana",
+    "idade": 26,
+    "signo": "Libra",
+    "altura": 1.63
+}
+
+print(dicioana)
